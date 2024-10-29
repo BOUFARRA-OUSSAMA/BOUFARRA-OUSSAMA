@@ -1,12 +1,10 @@
-## Hi there 👋
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=22&pause=1000&color=925BF7&width=435&lines=Hello+World!+😎+I'm+Oussama+Boufarra" alt="Typing SVG" />
   </a>
 </h1>
 
-<h3 align="center">A passionate full-stack developer with a focus on Data Analytics and Cybersecurity from Morocco 🇲🇦</h3>
+<h3 align="center">A future engineer specializing in Data Analytics and Cybersecurity from Morocco 🇲🇦</h3>
 
 <br/>
 
@@ -46,11 +44,12 @@
 <hr/>
 
 <div align="center">
-  <h2>📈 Data Analytics & Cybersecurity 🛡️</h2>
+  <h2>📈 Data Analytics, Cybersecurity & Full-Stack Development ⚙️</h2>
   <br>
   <ul>
     <li><strong>Data Analytics:</strong> Experienced in data visualization, Python for data science, and Power BI for insightful reporting.</li>
     <li><strong>Cybersecurity:</strong> Skilled in secure coding practices, network security tools (Wireshark, Nmap), and ethical hacking basics.</li>
+    <li><strong>Full-Stack Development:</strong> Worked on various projects, building end-to-end applications with React, Node.js, Express, and more.</li>
   </ul>
 </div>
 
