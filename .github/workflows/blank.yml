@@ -1,11 +1,8 @@
 name: Generate Snake Animation
 
 on:
-  # Runs the workflow on push events to the profile repository
   push:
     branches: [ "output" ]
-
-  # Allows you to run this workflow manually
   workflow_dispatch:
 
 jobs:
