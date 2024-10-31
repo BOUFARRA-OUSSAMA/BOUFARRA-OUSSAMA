@@ -19,7 +19,7 @@
  🔐 Security Insight: **A secure system is a trustworthy system**
 
  <div align="center"> 
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:boufarra.oussama@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/oussama-boufarra" target="_blank">
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,wordpress" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,java,nextjs,mysql,wordpress,prisma,dotnet" /><br>
   <img src="https://skillicons.dev/icons?i=ps,ai,xd" />
 </div>
@@ -58,7 +58,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/BOUFARRA-OUSSAMA/BOUFARRA-OUSSAMA/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/BOUFARRA-OUSSAMA/BOUFARRA-OUSSAMA/blob/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
