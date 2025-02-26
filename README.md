@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">A future engineer specializing in Data Analytics and Cybersecurity from Morocco 🇲🇦</h3>
+<h3 align="center">A future engineer in Data Analytics and Cybersecurity from Morocco 🇲🇦</h3>
 
 <br/>
 
@@ -38,13 +38,13 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,cpp,java,nextjs,mysql,wordpress,prisma,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=Bash,python,firebase,mongodb,cpp,java,mysql,wordpress,prisma" /><br>
   <img src="https://skillicons.dev/icons?i=ps,ai,xd" />
 </div>
 <hr/>
 
 <div align="center">
-  <h2>📈 Data Analytics, Cybersecurity & Full-Stack Development ⚙️</h2>
+  <h2> Data Analytics, Cybersecurity </h2>
   <br>
   <ul>
     <li><strong>Data Analytics:</strong> Experienced in data visualization, Python for data science, and Power BI for insightful reporting.</li>
