@@ -14,7 +14,7 @@
  
  🌱 I’m currently expanding my skills in **Python for data science, ethical hacking, and advanced backend frameworks**
 
- 💬 Ask me about **Data Analytics, Cybersecurity, Full-Stack Development... or anything [here](https://github.com/BOUFARRA-OUSSAMA/BOUFARRA-OUSSAMA/issues)**
+ 💬 Ask me about **Data Analytics, Cybersecurity or anything [here](https://github.com/BOUFARRA-OUSSAMA/BOUFARRA-OUSSAMA/issues)**
 
  🔐 Security Insight: **A secure system is a trustworthy system**
 
@@ -49,7 +49,6 @@
   <ul>
     <li><strong>Data Analytics:</strong> Experienced in data visualization, Python for data science, and Power BI for insightful reporting.</li>
     <li><strong>Cybersecurity:</strong> Skilled in secure coding practices, network security tools (Wireshark, Nmap), and ethical hacking basics.</li>
-    <li><strong>Full-Stack Development:</strong> Worked on various projects, building end-to-end applications with React, Node.js, Express, and more.</li>
   </ul>
 </div>
 
