@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer & Network Engineer (MIAGE) with 3+ years of backend development experience and more than 5 years in networking and system administration. I've built full-stack applications with Java Spring Boot, Laravel, and Angular, deployed cloud solutions on DigitalOcean ☁️, and integrated AI chatbots via n8n workflows 🤖. Currently working as a Java & IBM ODM Developer, I'm passionate about combining AI with secure, scalable solutions 🔐.
+I'm a Computer & Network Engineer (MIAGE) with 3+ years of backend development experience and more than 5 years in networking and system administration. I've built full-stack applications with Java Spring Boot, Laravel, and Angular, deployed cloud solutions on DigitalOcean ☁️, and integrated AI chatbots via n8n workflows 🤖. I'm passionate about combining AI with secure, scalable solutions 🔐.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-boufarra/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mr_Boufarra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:boufarra.oussama@gmail.com) 
